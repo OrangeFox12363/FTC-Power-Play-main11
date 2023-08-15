@@ -63,12 +63,12 @@ public class telev1 extends LinearOpMode {
     double Angle = 0;
     double ClawPos = 0;
     boolean startElevator = false;
-    double ArmIntoCone = 0.2;
-    double ArmIntake = 1;
-    double ArmSecondFloor = 0.91;
-    double ArmThirdfloor = 0.84;
-    double ArmForthFloor = 0.79;
-    double ArmThithFloor = 0.76;
+    double ArmIntoCone = 1;
+    double ArmIntake = 0.3;
+    double ArmSecondFloor = 0.43;
+    double ArmThirdfloor = 0.47;
+    double ArmForthFloor = 0.53;
+    double ArmThithFloor = 0.56;
 
 
 
